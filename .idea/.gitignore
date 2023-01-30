@@ -1,0 +1,8 @@
+# Default ignored files
+/../../UploadFileBase/.idea/shelf/
+/../../UploadFileBase/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../UploadFileBase/.idea/httpRequests/
+# Datasource local storage ignored files
+/../../UploadFileBase/.idea/dataSources/
+/../../UploadFileBase/.idea/dataSources.local.xml
